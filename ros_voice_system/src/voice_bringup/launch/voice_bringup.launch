@@ -1,6 +1,5 @@
 <launch>
-<!-- ############################################################ -->
-<!--  ##############################################################  -->
+
 
   <!-- Global arguments define here,you can update default value -->
   <arg name="Wakeup_Topic" default="/voice_system/wakeup_topic" doc="wakeup topic" />
