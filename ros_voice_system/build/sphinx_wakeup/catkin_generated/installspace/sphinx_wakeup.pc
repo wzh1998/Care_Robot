@@ -1,0 +1,8 @@
+prefix=/home/sz/ros_voice_system/install
+
+Name: sphinx_wakeup
+Description: Description of sphinx_wakeup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sz/ros_voice_system/install/lib 
+Requires: 

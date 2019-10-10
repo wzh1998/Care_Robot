@@ -1,0 +1,2 @@
+baidu_speech:iflytek_asr:iflytek_tts:pocketsphinx:respeaker:snowboy_wakeup:sphinx_wakeup:tuling_nlu:voice_bringup:voice_move:voice_navigation
+-DCATKIN_DEVEL_PREFIX=/home/sz/ros_voice_system/devel -DCMAKE_INSTALL_PREFIX=/home/sz/ros_voice_system/install -G Unix Makefiles

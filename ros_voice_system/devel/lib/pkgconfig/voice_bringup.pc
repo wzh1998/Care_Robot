@@ -1,0 +1,8 @@
+prefix=/home/sz/ros_voice_system/devel
+
+Name: voice_bringup
+Description: Description of voice_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sz/ros_voice_system/devel/lib 
+Requires: 

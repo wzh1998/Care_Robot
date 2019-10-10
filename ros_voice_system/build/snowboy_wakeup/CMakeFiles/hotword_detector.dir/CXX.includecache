@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sz/ros_voice_system/src/snowboy_wakeup/3rdparty/snowboy/include/snowboy-detect.h
+memory
+-
+string
+-
+
+/home/sz/ros_voice_system/src/snowboy_wakeup/include/snowboy_wakeup/hotword_detector.h
+snowboy/include/snowboy-detect.h
+-
+
+/home/sz/ros_voice_system/src/snowboy_wakeup/src/hotword_detector.cpp
+snowboy_wakeup/hotword_detector.h
+/home/sz/ros_voice_system/src/snowboy_wakeup/src/snowboy_wakeup/hotword_detector.h
+sstream
+-
+

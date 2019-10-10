@@ -1,0 +1,8 @@
+prefix=/home/sz/ros_voice_system/devel
+
+Name: iflytek_tts
+Description: Description of iflytek_tts
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sz/ros_voice_system/devel/lib 
+Requires: 

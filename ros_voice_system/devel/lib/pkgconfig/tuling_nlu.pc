@@ -1,0 +1,8 @@
+prefix=/home/sz/ros_voice_system/devel
+
+Name: tuling_nlu
+Description: Description of tuling_nlu
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sz/ros_voice_system/devel/lib 
+Requires: 

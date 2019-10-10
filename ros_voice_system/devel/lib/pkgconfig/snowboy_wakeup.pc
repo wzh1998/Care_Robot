@@ -1,0 +1,8 @@
+prefix=/home/sz/ros_voice_system/devel
+
+Name: snowboy_wakeup
+Description: Description of snowboy_wakeup
+Version: 0.0.0
+Cflags: -I/home/sz/ros_voice_system/devel/include
+Libs: -L/home/sz/ros_voice_system/devel/lib 
+Requires: 
