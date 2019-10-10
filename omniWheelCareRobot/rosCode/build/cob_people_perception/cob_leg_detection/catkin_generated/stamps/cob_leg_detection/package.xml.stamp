@@ -1,0 +1,33 @@
+<package format="2">
+	<name>cob_leg_detection</name>
+	<version>1.0.4</version>
+	<description>Leg Detector using a machine learning approach to find leg-like patterns of laser scanner readings.</description>
+	<maintainer email="richard.bormann@ipa.fraunhofer.de">Richard Bormann</maintainer>
+	<author>Caroline Pantofaru, Olha Meyer</author>
+	<license>LGPL</license>
+	<!--url>http://ros.org/wiki/leg_detector</url-->
+	<url type="website">http://ros.org/wiki/cob_people_perception</url>
+
+	<buildtool_depend>catkin</buildtool_depend>
+	<!--buildtool_depend>catkin_simple</buildtool_depend-->
+
+	<depend>bfl</depend>
+	<depend>cob_people_tracking_filter</depend>
+	<depend>cob_perception_msgs</depend>
+	<depend>dynamic_reconfigure</depend>
+	<depend>geometry_msgs</depend>
+	<depend>image_geometry</depend>
+	<depend>laser_geometry</depend>
+	<depend>libopencv-dev</depend>
+	<depend>orocos_kdl</depend>
+	<depend>roscpp</depend>
+	<depend>rospy</depend>
+	<depend>sensor_msgs</depend>
+	<depend>std_msgs</depend>
+	<depend>std_srvs</depend>
+	<depend>tf</depend>
+	<depend>visualization_msgs</depend>
+
+	<exec_depend>laser_filters</exec_depend>
+
+</package>

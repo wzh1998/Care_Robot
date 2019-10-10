@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libdecomposition.so -o /home/sz/omniWheelCareRobot/rosCode/devel/lib/libdecomposition.so CMakeFiles/decomposition.dir/common/src/decomposition.cpp.o 

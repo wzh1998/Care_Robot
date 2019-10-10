@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/devel
+
+Name: face_recognition_msgs
+Description: Description of face_recognition_msgs
+Version: 0.0.0
+Cflags: -I/home/sz/omniWheelCareRobot/rosCode/devel/include
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/devel/lib 
+Requires: message_runtime

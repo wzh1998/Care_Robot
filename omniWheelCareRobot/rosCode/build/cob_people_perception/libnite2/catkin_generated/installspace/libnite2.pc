@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/install
+
+Name: libnite2
+Description: Description of libnite2
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/install/lib 
+Requires: 

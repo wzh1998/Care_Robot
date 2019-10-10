@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/install
+
+Name: cob_3d_mapping_msgs
+Description: Description of cob_3d_mapping_msgs
+Version: 0.6.11
+Cflags: -I/home/sz/omniWheelCareRobot/rosCode/install/include
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/install/lib 
+Requires: actionlib actionlib_msgs cob_object_detection_msgs message_runtime geometry_msgs sensor_msgs std_msgs

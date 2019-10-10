@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/install
+
+Name: cob_leg_detection
+Description: Description of cob_leg_detection
+Version: 1.0.4
+Cflags: -I/home/sz/omniWheelCareRobot/rosCode/install/include
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/install/lib 
+Requires: 

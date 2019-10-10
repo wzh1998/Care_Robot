@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/sz/omniWheelCareRobot/rosCode/build/cob_people_perception/libnite2/CMakeFiles/EP_libnite2"
+		},
+		{
+			"file" : "/home/sz/omniWheelCareRobot/rosCode/build/cob_people_perception/libnite2/CMakeFiles/EP_libnite2.rule"
+		},
+		{
+			"file" : "/home/sz/omniWheelCareRobot/rosCode/build/cob_people_perception/libnite2/CMakeFiles/EP_libnite2-complete.rule"
+		},
+		{
+			"file" : "/home/sz/omniWheelCareRobot/rosCode/build/cob_people_perception/libnite2/EP_libnite2-prefix/src/EP_libnite2-stamp/EP_libnite2-install.rule"
+		},
+		{
+			"file" : "/home/sz/omniWheelCareRobot/rosCode/build/cob_people_perception/libnite2/EP_libnite2-prefix/src/EP_libnite2-stamp/EP_libnite2-mkdir.rule"
+		},
+		{
+			"file" : "/home/sz/omniWheelCareRobot/rosCode/build/cob_people_perception/libnite2/EP_libnite2-prefix/src/EP_libnite2-stamp/EP_libnite2-download.rule"
+		},
+		{
+			"file" : "/home/sz/omniWheelCareRobot/rosCode/build/cob_people_perception/libnite2/EP_libnite2-prefix/src/EP_libnite2-stamp/EP_libnite2-update.rule"
+		},
+		{
+			"file" : "/home/sz/omniWheelCareRobot/rosCode/build/cob_people_perception/libnite2/EP_libnite2-prefix/src/EP_libnite2-stamp/EP_libnite2-patch.rule"
+		},
+		{
+			"file" : "/home/sz/omniWheelCareRobot/rosCode/build/cob_people_perception/libnite2/EP_libnite2-prefix/src/EP_libnite2-stamp/EP_libnite2-configure.rule"
+		},
+		{
+			"file" : "/home/sz/omniWheelCareRobot/rosCode/build/cob_people_perception/libnite2/EP_libnite2-prefix/src/EP_libnite2-stamp/EP_libnite2-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"EP_libnite2"
+		],
+		"name" : "EP_libnite2"
+	}
+}

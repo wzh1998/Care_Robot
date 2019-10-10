@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/install
+
+Name: ros_face_recognition
+Description: Description of ros_face_recognition
+Version: 0.0.1
+Cflags: -I/home/sz/omniWheelCareRobot/rosCode/install/include
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/install/lib 
+Requires: 

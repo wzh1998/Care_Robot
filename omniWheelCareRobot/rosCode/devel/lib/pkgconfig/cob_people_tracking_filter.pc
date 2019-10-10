@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/devel
+
+Name: cob_people_tracking_filter
+Description: Description of cob_people_tracking_filter
+Version: 1.0.4
+Cflags: -I/home/sz/omniWheelCareRobot/rosCode/src/cob_people_perception/cob_people_tracking_filter/include
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/devel/lib -lcob_people_tracking_filter
+Requires: cob_perception_msgs geometry_msgs message_filters roscpp sensor_msgs std_msgs tf

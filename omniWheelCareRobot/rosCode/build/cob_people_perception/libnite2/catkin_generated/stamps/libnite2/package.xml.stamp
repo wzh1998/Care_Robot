@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+	<name>libnite2</name>
+	<version>0.0.1</version>
+	<description>Wrapper for the NiTE2 library</description>
+
+	<maintainer email="richard.bormann@ipa.fraunhofer.de">Richard Bormann</maintainer>
+
+	<license>see downloaded licence file</license>
+
+	<url type="website">http://ros.org/wiki/cob_people_perception</url>
+
+	<buildtool_depend>catkin</buildtool_depend>
+
+</package>
