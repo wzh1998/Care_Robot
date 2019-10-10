@@ -1,17 +1,5 @@
 #!/usr/bin/env python  
   
-################################################
-# Copyright(c): 2016-2018 www.corvin.cn
-################################################
-# Author: corvin
-################################################
-# Description:
-#   four destination postion auto navigation.
-################################################
-# History:
-#   20180413: init this file.
-################################################
-
 import rospy  
 import actionlib  
 from actionlib_msgs.msg import *  

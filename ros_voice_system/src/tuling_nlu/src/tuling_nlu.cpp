@@ -1,13 +1,3 @@
-/*
- * author: www.corvin.cn
- *
- * description: nlp node,invoke tuling server to nlp and process move cmd.
- *
- * History:
- *   20171128:init this file.
- *   20180117:增加解析语音控制小车移动和导航的命令词,可以通过中文语音来控制
- *      小车移动和自动导航到目的地。
-*/
 
 #include <ros/ros.h>
 #include <std_msgs/String.h>

@@ -1,11 +1,3 @@
-/****************************************************************************/
-/* Author:corvin                                                            */
-/* Description: invoke online iflytek tts API to compose chinese speech     */
-/* Date:20171201: init code                                                 */
-/*      20171212: 去掉TTS结束后自动向ASR发送标志来继续唤醒的测试代码，现在  */
-/*        已经实现了respeaker麦克风阵列远场语音唤醒，语音交互功能;          */
-/****************************************************************************/
-
 #include <stdio.h>
 #include <unistd.h>
 #include <errno.h>

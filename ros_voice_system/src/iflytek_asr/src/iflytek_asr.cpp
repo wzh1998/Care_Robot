@@ -1,9 +1,3 @@
-/*
- * Author: corvin
- * Description:语音听写(iFly Auto Transform)技术能够实时地将语音转换成
- * 对应的文字。
- * Date:20171203 init code
-*/
 
 #include <ros/ros.h>
 #include <std_msgs/Int32.h>

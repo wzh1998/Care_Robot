@@ -1,11 +1,4 @@
-/*
-@file
-@brief a simple demo to recognize speech from microphone
 
-@author		taozhang9, corvin
-@date		2016/05/27
-                20171204: update code
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
